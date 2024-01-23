@@ -1,2 +1,1 @@
-# dals-portfolio
-Practice Set App dev
+# Personal Portfolio Website
